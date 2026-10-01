@@ -1,0 +1,6 @@
+{
+  "name": "Cronos",
+  "description": "Aplicativo inspirado no deus grego Cronos para gestão do tempo, horários escolares, disciplinas e tarefas acadêmicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

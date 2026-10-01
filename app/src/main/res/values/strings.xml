@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cronos</string>
+    <string name="widget_name">Cronos • Aula Atual e Próxima</string>
+    <string name="widget_description">Exibe a aula atual em andamento, contagem regressiva para a próxima aula e tarefas acadêmicas pendentes.</string>
+</resources>
